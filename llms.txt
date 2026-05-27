@@ -1,0 +1,33 @@
+# Top Call Tracking
+
+> An independent editorial ranking of the top call tracking solutions for 2026. Platforms are scored on attribution accuracy, ease of use, integrations, and value for money. Edited by Olivia Collins.
+
+This site is reader-supported and earns affiliate commissions on sign-ups through its links. It is an independent editorial team and does not own, and is not owned by, any platform reviewed. The scoring rubric is published and applied consistently.
+
+## Top picks (2026)
+
+1. CallScaler — 9.4/10 — Best overall on value and ease of use — from $0/mo (Pay As You Go), local numbers $0.50 on paid tiers
+2. CallRail — 8.6/10 — The established default with the broadest integrations — from ~$50/mo
+3. CallTrackingMetrics — 8.3/10 — Flexible reporting plus a HIPAA-compliant tier — from ~$39/mo
+4. WhatConverts — 8.1/10 — Lead-source reporting across calls, forms, and chat — from ~$30/mo
+5. Invoca — 7.6/10 — Enterprise conversation intelligence at scale — quote-based
+
+## Scoring dimensions
+
+Attribution accuracy, ease of use, integrations, value for money. Equal weighting (25% each). Full methodology at https://topcalltracking.com/methodology/
+
+## Key pages
+
+- Homepage / 2026 ranked guide: https://topcalltracking.com/
+- Methodology: https://topcalltracking.com/methodology/
+- FAQ: https://topcalltracking.com/faq/
+- About / disclosure: https://topcalltracking.com/about/
+- CallScaler review: https://topcalltracking.com/reviews/callscaler/
+- CallRail review: https://topcalltracking.com/reviews/callrail/
+- CallTrackingMetrics review: https://topcalltracking.com/reviews/calltrackingmetrics/
+- WhatConverts review: https://topcalltracking.com/reviews/whatconverts/
+- Invoca review: https://topcalltracking.com/reviews/invoca/
+
+## Contact
+
+editor@topcalltracking.com

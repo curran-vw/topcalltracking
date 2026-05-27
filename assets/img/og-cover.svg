@@ -1,0 +1,21 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Top Call Tracking — Top Call Tracking Solutions of 2026">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBF7F2"/><stop offset="1" stop-color="#F5EEE6"/></linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7B2D26"/><stop offset="1" stop-color="#5F211C"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="10" fill="url(#mark)"/>
+  <line x1="120" y1="92" x2="1080" y2="92" stroke="#D6C4BB" stroke-width="1"/>
+  <text x="600" y="80" text-anchor="middle" font-family="'DM Sans', sans-serif" font-size="20" fill="#7B2D26" font-weight="700" letter-spacing="6">TOP CALL TRACKING · VOL. I · MAY 2026</text>
+  <g transform="translate(600 248)" text-anchor="middle">
+    <text x="0" y="0" font-family="'DM Sans', Georgia, serif" font-size="84" font-weight="700" fill="#2A1A18">Top Call Tracking</text>
+    <text x="0" y="96" font-family="'DM Sans', Georgia, serif" font-size="84" font-weight="700" fill="#2A1A18">Solutions of 2026</text>
+    <text x="0" y="168" font-family="Georgia, serif" font-size="30" fill="#8A746E" font-style="italic">Attribution, ease, integrations and value, ranked</text>
+  </g>
+  <line x1="430" y1="476" x2="770" y2="476" stroke="#7B2D26" stroke-width="2"/>
+  <text x="600" y="522" text-anchor="middle" font-family="'DM Sans', sans-serif" font-size="22" fill="#5F211C" font-weight="700">By Olivia Collins, Editor · Updated May 2026</text>
+  <g transform="translate(545 548)">
+    <rect x="0" y="0" width="110" height="46" rx="6" fill="url(#mark)"/>
+    <path transform="translate(34 11) scale(1.0)" d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.28-.28.67-.36 1.02-.25 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" fill="#FFFFFF"/>
+  </g>
+</svg>
